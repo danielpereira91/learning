@@ -10,4 +10,4 @@ Brand new thing.
 
 ## README's Subtitle
 
-    - I'm becoming to fell like a rap god.
+    - This is not a train.
