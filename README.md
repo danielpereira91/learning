@@ -12,6 +12,8 @@ I was practicing Git and GitHub with a course in YouTube.
 
 Ready for the next.
 
+I am trying to be a back-end developer.
+
 ## README's Subtitle
 
     - This is not a train.
