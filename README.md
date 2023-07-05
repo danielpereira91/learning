@@ -18,6 +18,8 @@ I don't know where this road is going to lead.
 
 I found DevDojo. Hope it works.
 
+I will begin with Java lang.
+
 ## README's Subtitle
 
     - This is not a train.
